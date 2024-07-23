@@ -17,7 +17,7 @@ let b = 2;
 // a++ post Increment
 // ++a pre incrememt
 
-console.log("a = ", a, "& b = ", b);
-console.log("a++ = ", a++);
-console.log("a = ", a);
-console.log("--a = ", --a);
+// console.log("a = ", a, "& b = ", b);
+// console.log("a++ = ", a++);
+// console.log("a = ", a);
+// console.log("--a = ", --a);
